@@ -9,11 +9,11 @@ Telegram бот на Python в связке с библиотеками Aiogram 
 ### 👾Запуск:
 ```
 python -m venv venv
-./env/Scripts/activate 
+./venv/Scripts/activate 
 python -m pip install -r requirements.txt
 python bot.py
 ```
-Для начала работы необходимо отправить команду ```/start```. Список доступных команд - ```!бот```.
+Для начала работы необходимо отправить команду ```/start```. Список доступных команд - ```бот```.
 
 ### 🖌️ Пример работы
 ![alt text](https://github.com/abzikoff/telegrambotsport/blob/main/screens/image.png)
